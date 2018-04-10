@@ -5,8 +5,8 @@ An Amazon-like storefront using MySQL. The app will take in orders from customer
 
 <b> NPM Packages </b>
 
-  -MySQL
+  <b> -MySQL </b>
   
-  -Inquirer
+  <b> -Inquirer </b>
   
 Screenshots/video below to display the functionality of the application. 
