@@ -3,7 +3,7 @@
 
 An Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
 
-NPM Packages
+<b> NPM Packages </b>
 
   -MySQL
   
